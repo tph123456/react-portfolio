@@ -1,0 +1,33 @@
+[
+    {
+      "role": "Retail Sales Manager",
+      "organisation": "Peter Alexander",
+      "startDate": "Mar 2022",
+      "endDate": "Nov 2022",
+      "experiences": ["Organising store operations and allocating responsibilities to staff.", "Proficiently use point-of-sale system to manage stock inventory and staff details.", "Providing leadership and mentoring staff to foster a positive work environment."],
+      "imageSrc": "history/peteralexander.png"
+    },
+    {
+      "role": "Retail Sales Assistant",
+      "organisation": "Bonds",
+      "startDate": "Jun 2017",
+      "endDate": "Mar 2022",
+      "experiences": ["Working collaboratively with a large team and providing mentoring for new staff.", "Providing personalised customer experience with friendly and knowledgable assistance.", "Using creative problem solving to merchandise new products for customer engagement."],
+      "imageSrc": "history/bonds.png"
+    },
+    {
+      "role": "Diploma of IT (Advanced Programming)",
+      "organisation": "TAFE NSW",
+      "startDate": "Jan 2024",
+      "endDate": "Jun, 2024",
+      "experiences": [
+        "Project management.",
+        "Cyber Security.",
+        "MVC Project Development.",
+        "Mobile Multi-Touch Application Development.",
+        "Database Design.",
+        "Cloud Infrastructure Management."
+      ],
+      "imageSrc": "history/tafensw.png"
+    }
+  ]
